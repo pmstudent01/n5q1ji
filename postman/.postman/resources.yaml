@@ -1,0 +1,11 @@
+# Use this workspace to collaborate
+workspace:
+  id: 0530458e-ea6e-453b-b7a1-6ffe5f338782
+
+localResources:
+  environments:
+    - ../environments/Local.environment.yaml
+    - ../environments/Prod.environment.yaml
+    - ../environments/Test.environment.yaml
+  specs:
+    - ../specs/SafeStar_Spec.yaml
